@@ -1,10 +1,10 @@
-''' Class is a blueprint
+""" Class is a blueprint
 
 def function():
     pass
 
 print("Hello")  # Hello
-'''
+"""
 class User:
     pass
 
@@ -20,10 +20,10 @@ user_2.username = "Sandra"
 
 print(user_2.username)  # Sandra
 
-''' Constructor
+""" Constructor
 
 class Car:
     def __init__(self):
         # initialise attributes
 
-'''
+"""
