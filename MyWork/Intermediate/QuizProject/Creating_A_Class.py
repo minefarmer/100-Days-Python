@@ -23,7 +23,6 @@ print(user_2.username)  # Sandra
 """ Constructor
 
 class Car:
-    def __init__(self):
-        # initialise attributes
+    def __init__(self):  # initialise attributes
 
 """
