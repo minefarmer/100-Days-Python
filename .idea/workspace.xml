@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e44de29b-5626-4f38-8cf6-dba51b2e423c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/QuizProject/Attributes_Constructors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/QuizProject/Creating_A_Class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/CreatingTheQuestionClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/List_of_Question_objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/question_model.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\pgold\AppData\Local\Programs\Python\Python310\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/CreatingTheQuestionClass.py" />
