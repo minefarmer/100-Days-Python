@@ -37,10 +37,13 @@ class User:
         self.followers = 0  # do this for a parameter that is not always used
 
 user_1 = User("001", "Richard")  # new user being created...
-user_2 = User("001", "Sandra")
+user_2 = User("002", "Sandra")
 
 print(user_1.username)  # Richard
 print(user_1.id)  # 001
+print(user_1.followers)  # 0
+
+
 
 # user_2 = User()  # Traceback (most recent call last):
 #                 # File "c:\Users\pgold\CarlsHub\100-Days-Python\MyWork\Intermediate\QuizProject\Attributes_Constructors.py", line 42, in <module>
