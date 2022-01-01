@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44de29b-5626-4f38-8cf6-dba51b2e423c" name="Changes" comment="">
+    <list default="true" id="314321b9-a635-4263-b8ba-4122a2642816" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100-Days-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100-Days-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/CreatingTheQuestionClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/AddingMethodsToClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/Attributes_Constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/CreatingTheQuestionClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/Creating_A_Class.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/List_of_Question_objects.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/question_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/NextQuestion_()Method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/question_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pycharm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Coffee+Machine+Classes+Documentation.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +30,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="22t9w8OSa2Mh5N3lozanCVCEJBt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="235Cgq2buFB6tqn7uGc6fDyslWV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,56 +39,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager">
-    <configuration name="CreatingTheQuestionClass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-Days-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pgold\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/CreatingTheQuestionClass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.CreatingTheQuestionClass" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e44de29b-5626-4f38-8cf6-dba51b2e423c" name="Changes" comment="" />
-      <created>1640646251836</created>
+      <changelist id="314321b9-a635-4263-b8ba-4122a2642816" name="Changes" comment="" />
+      <created>1641014674302</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1640646251836</updated>
+      <updated>1641014674302</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

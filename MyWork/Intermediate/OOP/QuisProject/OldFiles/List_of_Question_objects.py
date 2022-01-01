@@ -8,8 +8,8 @@ class Question:
 
 
 '''
-from question_model import Question
-from data import question_data
+from MyWork.Intermediate.OOP.QuisProject.OldFiles.question_model import Question
+from MyWork.Intermediate.OOP.QuisProject.OldFiles.data import question_data
 
 question_bank = []
 for question in question_data:
