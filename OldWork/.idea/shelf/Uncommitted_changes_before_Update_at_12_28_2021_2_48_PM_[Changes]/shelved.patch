@@ -1,0 +1,110 @@
+Index: Pycharm/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Pycharm/.idea/misc.xml b/Pycharm/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1640563238138)
++++ b/Pycharm/.idea/misc.xml	(date 1640563238138)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/100-Days-Python.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/100-Days-Python.iml b/.idea/100-Days-Python.iml
+new file mode 100644
+--- /dev/null	(date 1640562170941)
++++ b/.idea/100-Days-Python.iml	(date 1640562170941)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="PyDocumentationSettings">
++    <option name="format" value="PLAIN" />
++    <option name="myDocStringFormat" value="Plain" />
++  </component>
++</module>
+\ No newline at end of file
+Index: Pycharm/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Pycharm/.idea/inspectionProfiles/profiles_settings.xml b/Pycharm/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1640563238151)
++++ b/Pycharm/.idea/inspectionProfiles/profiles_settings.xml	(date 1640563238151)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: Pycharm/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Pycharm/.idea/vcs.xml b/Pycharm/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1640563238159)
++++ b/Pycharm/.idea/vcs.xml	(date 1640563238159)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: Pycharm/.idea/Pycharm.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Pycharm/.idea/Pycharm.iml b/Pycharm/.idea/Pycharm.iml
+new file mode 100644
+--- /dev/null	(date 1640563238115)
++++ b/Pycharm/.idea/Pycharm.iml	(date 1640563238115)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: Pycharm/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Pycharm/.idea/modules.xml b/Pycharm/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1640563238131)
++++ b/Pycharm/.idea/modules.xml	(date 1640563238131)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/Pycharm.iml" filepath="$PROJECT_DIR$/.idea/Pycharm.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file

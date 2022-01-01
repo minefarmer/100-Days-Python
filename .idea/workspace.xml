@@ -1,23 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="314321b9-a635-4263-b8ba-4122a2642816" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100-Days-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100-Days-Python.iml" afterDir="false" />
+    <list default="true" id="1747943d-33fe-478f-9c91-34dad657324e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/100-Days-Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/shelf/Uncommitted_changes_before_Update_at_12_28_2021_2_48_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/shelf/Uncommitted_changes_before_Update_at_12_28_2021_2_48_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/CodingExercises/8_Printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/CodingExercises/DaysInMonth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/CodingExercises/DebuggingExercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/CodingExercises/StudentGradingProgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/CodingExercises/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/ControlFlowLogicalOperators/If_elif_elseStatments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/ControlFlowLogicalOperators/NestedIfAndElifStatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Dictionaries_Nesting/DeepDive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Dictionaries_Nesting/NestingListsDictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/ElseLogicalOperators/ControlFlowWithIfElse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/ElseLogicalOperators/LogicalOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/ElseLogicalOperators/Positional_vs_Keyword_Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/FunctionsWithOutput.py/Docstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/FunctionsWithOutput.py/FunctionsWithOutputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/FunctionsWithOutput.py/MultipleReturnValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Functions_Karel.py/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Functions_Karel.py/FunctionsWithInputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Functions_Karel.py/While_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Loops/For_Loop_Range_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Loops/Loops_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Randomization_PythonLists/IndexErrors_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Randomization_PythonLists/RandomModule/ListsOffset_AppendingItems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Randomization_PythonLists/RandomModule/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/Randomization_PythonLists/RandomModule/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/UnderstandingDataTypes/MathematicalOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/UnderstandingDataTypes/PrimitiveDataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/UnderstandingDataTypes/TypeError_Checking_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/UnderstandingDataTypes/f_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/DebuggingExercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/InputFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/NameBandGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/PrintManipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/PrintingToTheConsole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/PythonInputFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/VariableNaming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Beginner/WorkingWithVariables/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/CoffeeMachineProject/Coffee+Machine+Classes+Documentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/CoffeeMachineProject/Coffee+Machine+Program+Requirements.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/CoffeeMachineProject/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/CoffeeMachineProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/CoffeeMachineProject/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/CoffeeMachineProject/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/AddingMethodsToClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/Attributes_Constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/CheckingAnswers_KeppingScore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/CreatingTheQuestionClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/Creating_A_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/List_of_Question_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/ShowNewQuestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/OOP/QuisProject/OldFiles/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/ObjectOrientatedProgramming/ClassesObjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/ObjectOrientatedProgramming/Constructing_Accessing_Objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/ObjectOrientatedProgramming/ModifyingObjectAttribudesCallingMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/ObjectOrientatedProgramming/Turtle/anotherModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/ObjectOrientatedProgramming/Turtle/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Intermediate/ObjectOrientatedProgramming/another_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Projects/BandNameGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Projects/Coffee+Machine+Program+Requirements.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/MyWork/Projects/CoffeeMachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/100+Days+of+Python+Check+Off+Posters.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/Coding+Notebook+Sheets+to+Print.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/Coffee+Machine+Program+Requirements.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/Python+Syntax+Cheat+Sheet+Booklet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/Syllabus+for+100+Days+of+Python.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/Thonny.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/VisualizeCodeExecution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Resources/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/Test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/flatpack.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldWork/py/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/AddingMethodsToClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/Attributes_Constructors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/CreatingTheQuestionClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/Creating_A_Class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/List_of_Question_objects.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/NextQuestion_()Method.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/question_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pycharm/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Coffee+Machine+Classes+Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/CodingExercises/8_Printing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/CodingExercises/DaysInMonth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/CodingExercises/DebuggingExercises.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/CodingExercises/StudentGradingProgram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/CodingExercises/variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/ControlFlowLogicalOperators/If_elif_elseStatments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/ControlFlowLogicalOperators/NestedIfAndElifStatements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Dictionaries_Nesting/DeepDive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Dictionaries_Nesting/NestingListsDictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/ElseLogicalOperators/ControlFlowWithIfElse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/ElseLogicalOperators/LogicalOperators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/ElseLogicalOperators/Positional_vs_Keyword_Arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/FunctionsWithOutput.py/Docstrings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/FunctionsWithOutput.py/FunctionsWithOutputs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/FunctionsWithOutput.py/MultipleReturnValues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Functions_Karel.py/Functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Functions_Karel.py/FunctionsWithInputs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Functions_Karel.py/While_Loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Loops/For_Loop_Range_Operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Loops/Loops_Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Randomization_PythonLists/IndexErrors_Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Randomization_PythonLists/RandomModule/ListsOffset_AppendingItems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Randomization_PythonLists/RandomModule/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/Randomization_PythonLists/RandomModule/my_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/UnderstandingDataTypes/MathematicalOps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/UnderstandingDataTypes/PrimitiveDataTypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/UnderstandingDataTypes/TypeError_Checking_Conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/UnderstandingDataTypes/f_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/DebuggingExercise1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/InputFunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/NameBandGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/PrintManipulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/PrintingToTheConsole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/PythonInputFunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/VariableNaming.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Beginner/WorkingWithVariables/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/CoffeeMachineProject/Coffee+Machine+Classes+Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/CoffeeMachineProject/Coffee+Machine+Program+Requirements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/CoffeeMachineProject/coffee_maker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/CoffeeMachineProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/CoffeeMachineProject/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/CoffeeMachineProject/money_machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/AddingMethodsToClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/Attributes_Constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/CheckingAnswers_KeppingScore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/CreatingTheQuestionClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/Creating_A_Class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/List_of_Question_objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/Method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/ShowNewQuestions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/OOP/QuisProject/OldFiles/question_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/ObjectOrientatedProgramming/ClassesObjects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/ObjectOrientatedProgramming/Constructing_Accessing_Objects.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/ObjectOrientatedProgramming/ModifyingObjectAttribudesCallingMethods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/ObjectOrientatedProgramming/Turtle/anotherModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/ObjectOrientatedProgramming/Turtle/class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Intermediate/ObjectOrientatedProgramming/another_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Projects/BandNameGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Projects/Coffee+Machine+Program+Requirements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/Projects/CoffeeMachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/100+Days+of+Python+Check+Off+Posters.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Coding+Notebook+Sheets+to+Print.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Coffee+Machine+Program+Requirements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Python+Syntax+Cheat+Sheet+Booklet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Thonny.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/VisualizeCodeExecution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/quiz_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flatpack.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +188,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="235Cgq2buFB6tqn7uGc6fDyslWV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="235HrPQ3lz2R3oijCNI9AFfjzIY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,15 +202,54 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OldWork/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OldWork/Test/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="314321b9-a635-4263-b8ba-4122a2642816" name="Changes" comment="" />
-      <created>1641014674302</created>
+      <changelist id="1747943d-33fe-478f-9c91-34dad657324e" name="Changes" comment="" />
+      <created>1641017225694</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641014674302</updated>
+      <updated>1641017225694</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
